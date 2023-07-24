@@ -7,7 +7,7 @@ import threading
 import time
 import imutils # pip install imutils
 
-stream = cv2.VideoCapture("clip.mp4")
+stream = cv2.VideoCapture("suzume final.mp4")
 flag = True
 def play(speed):
     global flag
